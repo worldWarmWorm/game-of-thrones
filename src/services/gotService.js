@@ -44,7 +44,7 @@ export default class GotService {
     }
 
     isSet(data) {
-        return data ? data : 'empty';
+        return data ? data : 'empty'; 
     }    
     
     _extractId = (item) => {
