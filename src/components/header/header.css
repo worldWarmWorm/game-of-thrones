@@ -1,4 +1,4 @@
-.header-block {
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -11,7 +11,7 @@
     margin: 0;
 }
 
-.header-links {
+.header-list {
     display: flex;
     margin: 0;
     align-items: center;
@@ -19,7 +19,7 @@
     list-style-type: none;
 }
 
-.header-links li {
+.header-list li {
     margin-right: 20px;
         font-size: 18px;
 }
